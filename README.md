@@ -1,4 +1,5 @@
 # whatsapp-nosave-site
+Just input a person's phone number to chat with them without saving their contact
 A website I made based on a whatapp api I found
 Link to website: https://whatsappnosave.netlify.app/
 
